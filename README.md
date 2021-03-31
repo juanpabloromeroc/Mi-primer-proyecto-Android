@@ -1,7 +1,6 @@
 # Mi-primer-proyecto-Android
 
-[![Comunidad Google](https://img.shields.io/badge/Community-Google-orange)](https://groups.google.com/g/jupyter?pli=1) [![Comunidad guitHub](https://img.shields.io/badge/Community-gitHub-orange)](https://github.com/jupyter/) ![Ultima Version](https://img.shields.io/badge/Last%20Version-6.0.3-yellow) [![Mas info](https://img.shields.io/badge/More%20info-Principal%20Page-green)](https://jupyter.org/index.html)
- 
+
  Este proyecto tiene la intención de relacionarlo a usted con android-studio, se solicita realizar un proyecto android el cual tenga soporte de idiomas:
 a. Español (default)
 b. Inglés
