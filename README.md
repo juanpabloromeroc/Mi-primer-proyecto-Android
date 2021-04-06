@@ -13,10 +13,10 @@ Siguíendo las indicaciones mencionadas y los conceptos vistos en el curso en la
 
 ## Smatphone Android (Android 11.0 google APIs), Resolución (1080 x 1920)
 ### Orientación Vertical
-![](cel_Horizontal.png)
+![](cel_Vertical.png)
 
 ### Orientación Horizontal
-![](cel_Vertical.png)
+![](cel_Horizontal.png)
 ## Tablet Android Nexus 10 (Android 11.0 google APIs), Resolución (2560 x 1600)
 ### Orientación Horizontal
 ![](tableta_horizontal.png)
